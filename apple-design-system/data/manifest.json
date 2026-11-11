@@ -1,0 +1,186 @@
+{
+  "source": "https://developer.apple.com/design/Human-Interface-Guidelines",
+  "fetched_at": "2026-11-05T06:05:33Z",
+  "articles": [
+    {
+      "slug": "design-principles",
+      "file": "data/raw/design-principles.md",
+      "bytes": 11324,
+      "status": "success"
+    },
+    {
+      "slug": "getting-started",
+      "file": "data/raw/getting-started.md",
+      "bytes": 4743,
+      "status": "success"
+    },
+    {
+      "slug": "accessibility",
+      "file": "data/raw/accessibility.md",
+      "bytes": 26314,
+      "status": "success"
+    },
+    {
+      "slug": "app-icons",
+      "file": "data/raw/app-icons.md",
+      "bytes": 20867,
+      "status": "success"
+    },
+    {
+      "slug": "color",
+      "file": "data/raw/color.md",
+      "bytes": 41869,
+      "status": "success"
+    },
+    {
+      "slug": "dark-mode",
+      "file": "data/raw/dark-mode.md",
+      "bytes": 11749,
+      "status": "success"
+    },
+    {
+      "slug": "layout",
+      "file": "data/raw/layout.md",
+      "bytes": 27341,
+      "status": "success"
+    },
+    {
+      "slug": "materials",
+      "file": "data/raw/materials.md",
+      "bytes": 21534,
+      "status": "success"
+    },
+    {
+      "slug": "motion",
+      "file": "data/raw/motion.md",
+      "bytes": 9670,
+      "status": "success"
+    },
+    {
+      "slug": "typography",
+      "file": "data/raw/typography.md",
+      "bytes": 75294,
+      "status": "success"
+    },
+    {
+      "slug": "spatial-layout",
+      "file": "data/raw/spatial-layout.md",
+      "bytes": 13252,
+      "status": "success"
+    },
+    {
+      "slug": "sf-symbols",
+      "file": "data/raw/sf-symbols.md",
+      "bytes": 33218,
+      "status": "success"
+    },
+    {
+      "slug": "entering-data",
+      "file": "data/raw/entering-data.md",
+      "bytes": 5599,
+      "status": "success"
+    },
+    {
+      "slug": "feedback",
+      "file": "data/raw/feedback.md",
+      "bytes": 4911,
+      "status": "success"
+    },
+    {
+      "slug": "loading",
+      "file": "data/raw/loading.md",
+      "bytes": 4583,
+      "status": "success"
+    },
+    {
+      "slug": "modality",
+      "file": "data/raw/modality.md",
+      "bytes": 6869,
+      "status": "success"
+    },
+    {
+      "slug": "onboarding",
+      "file": "data/raw/onboarding.md",
+      "bytes": 6203,
+      "status": "success"
+    },
+    {
+      "slug": "searching",
+      "file": "data/raw/searching.md",
+      "bytes": 6204,
+      "status": "success"
+    },
+    {
+      "slug": "settings",
+      "file": "data/raw/settings.md",
+      "bytes": 7851,
+      "status": "success"
+    },
+    {
+      "slug": "undo-and-redo",
+      "file": "data/raw/undo-and-redo.md",
+      "bytes": 5106,
+      "status": "success"
+    },
+    {
+      "slug": "buttons",
+      "file": "data/raw/buttons.md",
+      "bytes": 24086,
+      "status": "success"
+    },
+    {
+      "slug": "toolbars",
+      "file": "data/raw/toolbars.md",
+      "bytes": 23340,
+      "status": "success"
+    },
+    {
+      "slug": "tab-bars",
+      "file": "data/raw/tab-bars.md",
+      "bytes": 13800,
+      "status": "success"
+    },
+    {
+      "slug": "sidebars",
+      "file": "data/raw/sidebars.md",
+      "bytes": 9938,
+      "status": "success"
+    },
+    {
+      "slug": "search-fields",
+      "file": "data/raw/search-fields.md",
+      "bytes": 16760,
+      "status": "success"
+    },
+    {
+      "slug": "menus",
+      "file": "data/raw/menus.md",
+      "bytes": 17925,
+      "status": "success"
+    },
+    {
+      "slug": "activity-views",
+      "file": "data/raw/activity-views.md",
+      "bytes": 8250,
+      "status": "success"
+    },
+    {
+      "slug": "gestures",
+      "file": "data/raw/gestures.md",
+      "bytes": 25796,
+      "status": "success"
+    },
+    {
+      "slug": "pointing-devices",
+      "file": "data/raw/pointing-devices.md",
+      "bytes": 53746,
+      "status": "success"
+    },
+    {
+      "slug": "keyboards",
+      "file": "data/raw/keyboards.md",
+      "bytes": 39774,
+      "status": "success"
+    }
+  ]
+}
